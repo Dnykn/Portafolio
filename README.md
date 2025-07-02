@@ -39,7 +39,7 @@ Aquí muestro proyectos reales enfocados en soluciones digitales para pequeños 
 ## 🌐 Demo en vivo
 
 Puedes ver el portafolio desplegado aquí:  
-🔗 [https://dnykn.github.io](https://dnykn.github.io) *(o el enlace real cuando lo tengas)*
+🔗 https://andy-portafolio.netlify.app
 
 ---
 
