@@ -46,7 +46,7 @@ Puedes ver el portafolio desplegado aquí:
 ## 📫 Contacto
 
 ¿Querés trabajar conmigo?  
-Podés escribirme a: **dnykn.dev@gmail.com**  
+Podés escribirme a: **andy.dev1800@gmail.com**  
 O enviarme un mensaje directo por WhatsApp desde el sitio principal.
 
 ---
